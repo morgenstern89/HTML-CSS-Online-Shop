@@ -1,0 +1,67 @@
+.btn-outline-success{
+  color: #71b081;
+  border-color: #71b081;
+  text-color:#71b081;
+}
+
+.btn-outline-success:hover{
+  background-color: #71b081;
+  border-color:#71b081;
+  text-color:white;
+}
+
+h4{
+  font-family: TimesNewRoman,"Times New Roman",Times,Georgia,serif;
+}
+
+h2{
+   font-family: TimesNewRoman,"Times New Roman",Times,Georgia,serif;
+}
+
+.border-col-med:not(tr){
+    border-color: #000;
+}
+
+.line a{
+  color:black;
+  text-decoration: none;
+}
+
+.line a:hover{
+  color:#71b081;
+}
+h4:hover{
+  color:#71b081
+}
+
+.second-line{
+  font-size:12px;
+  text-decoration: none;
+  display:none;
+}
+
+.second-line:hover{
+  color:#71b081;
+}
+
+@media screen and (max-width:48rem){
+  .line{
+    text-align:center;
+    padding-left:2rem;
+    padding-right:2rem;
+  }
+}
+
+@media screen and (max-width:48rem){
+  .second-line{
+    padding-left:2rem;
+    padding-right:2rem;
+  }
+}
+
+@media screen and (max-width:48rem){
+  .second-line{
+    display:block;
+  }
+}
+
