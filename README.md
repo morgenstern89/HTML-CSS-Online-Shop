@@ -1,2 +1,2 @@
 # Production URL
-https://responsive-website-online-shop.morgenstern89.repl.co/
+https://responsive-online-shop-project.netlify.app/
